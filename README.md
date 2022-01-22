@@ -8,4 +8,5 @@
  # Published
  - App is published in Expo.
  - You can check out app 👉🏻 [Expo publish](https://expo.dev/@krish4u/joke-api)
-# ScreenShots/Working model
+# IOS Simulator
+https://user-images.githubusercontent.com/66221402/150655358-9705ae82-6627-47bd-86e2-2dc1ce23adac.mov
