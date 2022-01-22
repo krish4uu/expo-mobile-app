@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project",
-    "slug": "project",
+    "name": "joke-api project",
+    "slug": "joke-api",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
